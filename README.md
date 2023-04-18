@@ -1,5 +1,5 @@
 # MC-server-Boot
-A boot menu with backup and a editor (beta)
+A boot menu with backup and a editor
 !!YOU NEED A PAPER SERVER AND RENAMNE IT PaperMC.jar <-- LIKE DIS!!
 
 Python requariard!!!!!
